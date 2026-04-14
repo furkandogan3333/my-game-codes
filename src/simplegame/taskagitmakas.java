@@ -1,4 +1,4 @@
-//taş kağıt makas oyunu
+package simplegame;//taş kağıt makas oyunu
 
 import java.util.Scanner;
 import java.util.Random;

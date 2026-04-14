@@ -1,4 +1,4 @@
-//zindan oyunu demo 1.1                // Dungeon Game Demo 1.1
+package dungeongame;//zindan oyunu demo 1.1                // Dungeon Game Demo 1.1
 //xp sistemi getirildi                 // Added XP system
 //yeni odalar eklendi                  // Added new rooms
 

@@ -1,4 +1,4 @@
-//rus ruleti
+package simplegame;//rus ruleti
 
 
 import java.util.Random;

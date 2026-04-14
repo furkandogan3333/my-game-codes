@@ -1,4 +1,4 @@
-//zindan oyunu demo 1.0                // Dungeon Game Demo 1.0
+package dungeongame;//zindan oyunu demo 1.0                // Dungeon Game Demo 1.0
 //karakterin 10 canı var               // Player has 10 HP (Health Points)
 //karakterin 1d6 saldırı gücü var      // Player has 1d6 attack power
 //1d4 kalkanı var                      // Player has 1d4 shield
